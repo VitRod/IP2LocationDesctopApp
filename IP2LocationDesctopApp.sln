@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP2LocationDesctopApp", "IP2LocationDesctopApp\IP2LocationDesctopApp.csproj", "{10ECD8A1-7A83-4187-B10C-FC115FA5982D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10ECD8A1-7A83-4187-B10C-FC115FA5982D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10ECD8A1-7A83-4187-B10C-FC115FA5982D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10ECD8A1-7A83-4187-B10C-FC115FA5982D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10ECD8A1-7A83-4187-B10C-FC115FA5982D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC036BC4-18B5-4FBF-9CD8-8D31EE79ECC0}
+	EndGlobalSection
+EndGlobal
